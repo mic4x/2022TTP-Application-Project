@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
  <head> 
-  <title>Meet Michael Coleman</title>
+  <title> Meet Michael Coleman </title>
     <meta charset="UTF-8">
   <meta name="description" content="Mr. Coleman is..." 
   Welcome to My Website
