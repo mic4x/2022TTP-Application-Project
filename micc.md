@@ -1,8 +1,8 @@
 <!DOCTYPE html> 
  <head> 
     <meta charset="UTF-8">
-  <meta name="description" content="Mr. Coleman is..." 
-  <title>Meet Michael Coleman</title>  
+  <meta name="description" content="Mr. Coleman is...">
+  <title>Meet Michael Coleman</title> 
   </head>
  
   <body>
